@@ -1,1 +1,1 @@
-console.log("amstrong js")
+console.log("merge conflict")
